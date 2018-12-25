@@ -18,7 +18,7 @@ import webapp2
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-     self.redirect("https://www.kobelli.com/", True)
+     self.redirect("https://shareasale.com/r.cfm?b=252943&u=1608325&m=29135&urllink=&afftrack=", True)
 		# and this is the main code
 
 app = webapp2.WSGIApplication([
